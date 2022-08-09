@@ -1,0 +1,8 @@
+/node_modules
+/storage/*.key
+/.idea
+.env
+/public/mix-manifest.json
+/*.log
+/public/*.js
+/public/*.js.map
